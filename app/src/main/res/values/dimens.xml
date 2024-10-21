@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="no_margin">0dp</dimen>
+
+    <dimen name="list_view_group_column">16dp</dimen>
+
+    <dimen name="list_view_item_horizontal_spacer">5dp</dimen>
+    <dimen name="list_view_item_horizontal_tab">36dp</dimen>
+    <dimen name="size_icon_activity_home">20dp</dimen>
+    <dimen name="margin_icon_activity_home">5dp</dimen>
+
+    <!-- font sizes -->
+    <dimen name="font_huge">22sp</dimen>
+    <dimen name="font_larger">20sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+    <dimen name="font_normal_2">13sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_tiny">10sp</dimen>
+    <dimen name="font_item_symptom">10sp</dimen>
+    <dimen name="font_size_number_statistic">28sp</dimen>
+
+    <!-- typical spacing between two views -->
+    <dimen name="spacing_huge_2">50dp</dimen>
+    <dimen name="spacing_huge_3">60dp</dimen>
+    <dimen name="spacing_huge">40dp</dimen>
+    <dimen name="spacing_more_large">32dp</dimen>
+    <dimen name="spacing_more_large_2">28dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_large_2">25dp</dimen>
+    <dimen name="spacing_large_middle">22dp</dimen>
+    <dimen name="spacing_extra_normal">18dp</dimen>
+    <dimen name="spacing_normal_custom">17dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+    <dimen name="spacing_extra_middle">14dp</dimen>
+    <dimen name="spacing_middle">12dp</dimen>
+    <dimen name="spacing_extra_small">10dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_small_tiny">6dp</dimen>
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_tiny_2">3dp</dimen>
+    <dimen name="spacing_very_tiny">2dp</dimen>
+    <dimen name="_0dp">0dp</dimen>
+
+    <dimen name="bottom_sheet_icon_size">24dp</dimen>
+
+    <dimen name="cropiwa_default_border_stroke_width">1dp</dimen>
+    <dimen name="cropiwa_default_corner_stroke_width">4dp</dimen>
+    <dimen name="cropiwa_default_grid_stroke_width">1dp</dimen>
+    <dimen name="cropiwa_default_min_height">40dp</dimen>
+    <dimen name="cropiwa_default_min_width">40dp</dimen>
+
+    <dimen name="toolbar_fixed_size">60dp</dimen>
+    <dimen name="toolbar_home">65dp</dimen>
+    <dimen name="button_toolbar">40dp</dimen>
+    <dimen name="button_calendar">40dp</dimen>
+
+    <dimen name="WheelItemTextSize">24sp</dimen>
+    <dimen name="WheelItemSpace">12dp</dimen>
+    <dimen name="WheelIndicatorSize">2dp</dimen>
+    <dimen name="WheelMargins">8dp</dimen>
+    <dimen name="wheel_spacing">30dp</dimen>
+    <dimen name="wheelSelectorHeight">40dp</dimen>
+
+    <dimen name="splash_logo_width">160dp</dimen>
+    <dimen name="splash_logo_height">160dp</dimen>
+    <dimen name="size_text_welcome">32sp</dimen>
+    <dimen name="size_img_welcome">300dp</dimen>
+    <dimen name="size_img_cat_symptoms">20dp</dimen>
+    <dimen name="size_init_img">120dp</dimen>
+    <dimen name="_300dp">300dp</dimen>
+    <dimen name="font_text_picker">26sp</dimen>
+    <dimen name="width_btn_log_period">150dp</dimen>
+    <dimen name="width_btn_retry">80dp</dimen>
+
+    <dimen name="bottomsheet_default_sheet_width">0dp</dimen>
+    <dimen name="spacing_pregnancy">100dp</dimen>
+    <dimen name="size_image_avatar">70dp</dimen>
+    <dimen name="size_image_edit_avatar">25dp</dimen>
+
+    //custom dialog
+    <dimen name="radius_image_symptom_dialog">50dp</dimen>
+    <dimen name="size_image_symptom_dialog">100dp</dimen>
+    <dimen name="size_border_image_dialog_symptom">4dp</dimen>
+    <dimen name="radius_round_corner_symptom_dialog">30dp</dimen>
+    <dimen name="size_margin_circle_image_symptom_dialog">5dp</dimen>
+
+    <dimen name="size_title_symptom_dialog">20dp</dimen>
+    <dimen name="size_amount_symptom_dialog">30dp</dimen>
+    <dimen name="size_amount_symptom_dialog_smaller">24dp</dimen>
+    <dimen name="size_text_symptom_dialog">16dp</dimen>
+    <dimen name="size_text_larger_symptom_dialog">20dp</dimen>
+
+    <dimen name="size_width_wheel_picker">80dp</dimen>
+    <dimen name="size_height_wheel_picker">100dp</dimen>
+    <dimen name="size_image_nav">40dp</dimen>
+    <dimen name="size_padding_image_nav">8dp</dimen>
+    <dimen name="width_border_image_circle">5dp</dimen>
+    <dimen name="size_image_arrow_dropdown">10dp</dimen>
+
+    <dimen name="size_button_drink">50dp</dimen>
+    <dimen name="size_image_cup_volume">70dp</dimen>
+    <dimen name="size_image_unit_volume_drink">65dp</dimen>
+    <dimen name="size_image_select_volume">25dp</dimen>
+    <dimen name="width_item_volume_drink">55dp</dimen>
+    <dimen name="height_item_weight_sleep_drink">120dp</dimen>
+    <dimen name="size_icon_setting">30dp</dimen>
+    <dimen name="size_icon_weight_symptom">45dp</dimen>
+    <dimen name="size_image_avatar_profile">100dp</dimen>
+    <dimen name="height_view_under_line">1dp</dimen>
+    <dimen name="height_wheel_picker_profile">180dp</dimen>
+    <dimen name="size_avatar_profile">100dp</dimen>
+    <dimen name="size_container_avatar_profile">110dp</dimen>
+
+    <dimen name="width_button_dialog">90dp</dimen>
+    <dimen name="height_button_dialog">20dp</dimen>
+
+    <dimen name="width_img_top_left">260dp</dimen>
+    <dimen name="height_img_top_left">170dp</dimen>
+
+    <dimen name="height_btn_save">45dp</dimen>
+    <dimen name="height_spinner">40dp</dimen>
+
+    <dimen name="height_textview_statistic">40dp</dimen>
+    <dimen name="height_textview_symptom_log">30dp</dimen>
+
+    <dimen name="height_btn_today">30dp</dimen>
+
+    <dimen name="width_iv_back">44dp</dimen>
+    <dimen name="height_iv_back">40dp</dimen>
+    <dimen name="padding_iv_back">12dp</dimen>
+    <dimen name="width_text_week">100dp</dimen>
+    <dimen name="height_view_symptoms">100dp</dimen>
+
+    <dimen name="size_event_year_item">4dp</dimen>
+    <dimen name="margin_event_year_item">5dp</dimen>
+
+    <dimen name="size_event_month_item">6dp</dimen>
+    <dimen name="margin_event_month_item">8dp</dimen>
+
+    <dimen name="dialog_spacing_button">4dp</dimen>
+
+
+    <dimen name="radius_corner">16dp</dimen>
+    <dimen name="margin_top_bg_dialog">30dp</dimen>
+    <dimen name="padding_dialog">8dp</dimen>
+    <dimen name="main_calculator_dialog">8dp</dimen>
+    <dimen name="toolbar_height_default">50dp</dimen>
+    <dimen name="dialog_title_height">48dp</dimen>
+
+
+</resources>
